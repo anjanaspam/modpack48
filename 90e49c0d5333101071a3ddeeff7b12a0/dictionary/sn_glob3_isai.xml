@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="isai" max_length="40" name="sn_glob3_isai" type="collection">
+        <element label="col" max_length="40" name="col" type="integer"/>
+    </element>
+</database>
